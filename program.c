@@ -12,6 +12,7 @@ int main()
   printf("Hello world!\n");
   printf("Merge commit\n");
   printf("Fourth commit\n");
+  printf("Last commit\n");
   printf("%d\n", fib(5));
   return 0;
 }
